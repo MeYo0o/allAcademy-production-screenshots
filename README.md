@@ -1,1 +1,85 @@
-# allAcademy-production-screenshots
+# All Academy-production-screenshots
+
+All Academy is a courses app that connects between Instructors & Students , mostly like Udemy.
+
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="assets\showcase\1.png" width=270 height=480></td>
+    <td><img src="assets\showcase\2.png" width=270 height=480></td>
+    <td><img src="assets\showcase\3.png" width=270 height=480></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="assets\showcase\4.png" width=270 height=480></td>
+    <td><img src="assets\showcase\5.png" width=270 height=480></td>
+    <td><img src="assets\showcase\6.png" width=270 height=480></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="assets\showcase\7.png" width=270 height=480></td>
+    <td><img src="assets\showcase\8.png" width=270 height=480></td>
+    <td><img src="assets\showcase\9.png" width=270 height=480></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="assets\showcase\10.png" width=270 height=480></td>
+    <td><img src="assets\showcase\11.png" width=270 height=480></td>
+    <td><img src="assets\showcase\12.png" width=270 height=480></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="assets\showcase\13.png" width=270 height=480></td>
+    <td><img src="assets\showcase\14.png" width=270 height=480></td>
+    <td><img src="assets\showcase\15.png" width=270 height=480></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="assets\showcase\16.png" width=270 height=480></td>
+    <td><img src="assets\showcase\17.png" width=270 height=480></td>
+    <td><img src="assets\showcase\18.png" width=270 height=480></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="assets\showcase\19.png" width=270 height=480></td>
+    <td><img src="assets\showcase\20.png" width=270 height=480></td>
+    <td><img src="assets\showcase\21.png" width=270 height=480></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="assets\showcase\22.png" width=270 height=480></td>
+    <td><img src="assets\showcase\23.png" width=270 height=480></td>
+    <td><img src="assets\showcase\24.png" width=270 height=480></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="assets\showcase\25.png" width=270 height=480></td>
+    <td><img src="assets\showcase\26.png" width=270 height=480></td>
+    <td><img src="assets\showcase\27.png" width=270 height=480></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="assets\showcase\28.png" width=270 height=480></td>
+    <td><img src="assets\showcase\29.png" width=270 height=480></td>
+    <td><img src="assets\showcase\30.png" width=270 height=480></td>
+  </tr>
+</table>
